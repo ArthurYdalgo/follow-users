@@ -1,5 +1,5 @@
 {
-  "name": "simonxeko/follow-users",
+  "name": "arthurydalgo/follow-users",
   "description": "Follow users and be notified of new discussions and replies",
   "keywords": [
     "flarum"
@@ -18,7 +18,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Simonxeko\\FollowUsers\\": "src/"
+      "arthurydalgo\\FollowUsers\\": "src/"
     }
   },
   "extra": {
